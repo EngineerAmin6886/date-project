@@ -1,0 +1,69 @@
+body{
+    background-color: rgb(255,255,255);
+}
+/* css code properties mohasbeh [START] */
+#mohasbeh{
+    background-color: rgb(139,209,121);
+    width: 400px;
+    height: 200px;
+    margin: 0 auto;
+}
+/* css code properties mohasbeh-container [START] */
+#mohasbeh-container{
+    margin-top: 130px;
+}
+
+/* css code properties onvan [START] */
+.onvan{
+    display: inline-flex;
+}
+.onvan > p{
+    margin-left: 100px;
+    margin-bottom: 0px;
+    padding: 22px;
+}
+.onvan img{
+    width: 50px;
+}
+
+/* css code properties vorodiHa [START] */
+.vorodiHa{
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-left: 117px;
+}
+.vorodiHa input{
+    width: 30px;
+    margin-left: 15px;
+    outline: none;
+}
+
+.year > p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 18px;
+    font-size: 14px;
+}
+.month > p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 18px;
+    font-size: 14px;
+}
+.day > p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 18px;
+    font-size: 14px;
+}
+
+/* css code properties btn [START] */
+.btn{
+    margin-left: 175px;
+    margin-top: 25px;
+}
+.btn > button{
+    padding: 4px 15px 4px 15px;
+}
